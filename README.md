@@ -1,2 +1,2 @@
 # HTML
-Primeira paágina HTML e css!
+Primeira página HTML e css!
