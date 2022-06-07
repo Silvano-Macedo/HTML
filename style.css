@@ -1,0 +1,10 @@
+body{
+    background: rgb(215, 241, 255);
+}
+#title, .title_2, .title_3 {
+  color: orange;  
+}
+.title_2 {
+    font-size: 16px;
+    font-style: italic;
+}
